@@ -143,15 +143,15 @@ body {
   border-radius: 100px 100px 0px 0px;
 }
 #about:hover {
-  background: rgba(255, 50, 50, 0.9);
+  background: rgb(66, 66, 65);
   cursor: pointer;
 }
 #work:hover {
-  background: rgba(255, 50, 50, 0.9);
+  background: rgb(66, 66, 65);
   cursor: pointer;
 }
 #contact:hover {
-  background: rgba(255, 50, 50, 0.9);
+  background: rgb(66, 66, 65);
   cursor: pointer;
 }
 #middle table {
@@ -177,7 +177,7 @@ body {
   width: 90vw;
   height: 90vh;
   padding: 5vh 5vw;
-  background: rgb(255, 50, 50);
+  background: rgb(66, 66, 65);
   color: #fff;
   z-index: 9;
   position: fixed;
